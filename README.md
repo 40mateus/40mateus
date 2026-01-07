@@ -18,4 +18,4 @@
 - 📱 Telefone: (62) 99559-9643
 - 📧 Email: mtheusoliveira29@gmail.com 
 - 💼 [LinkedIn](www.linkedin.com/in/matheus-oliveira-a0716a236)  
-- 🌐 [Portfólio]([www.linkedin.com/in/matheus-oliveira-a0716a236](https://github.com/40mateus/zoom-responsivo.git))
+- 🌐 [Portfólio]([www.linkedin.com/in/matheus-oliveira-a0716a236]([https://github.com/40mateus/zoom-responsivo.git](https://github.com/40mateus/zoom-responsivo?tab=readme-ov-file)))
