@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Matheus Oliveira
 
-🎯 Desenvolvedor Web | Estagiário em Contabilidade  
+🎯 Desenvolvedor Web | Estagiário em TI 
 📚 Apaixonado por aprender tecnologia, programação e dados  
-🚀 Focado em Angular, QA, e Salesforce  
+🚀 Focado em Angular, QA, e automação 
 📍 Brasil
 
 ## 💻 Tecnologias
